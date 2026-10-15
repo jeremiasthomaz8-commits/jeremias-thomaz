@@ -13,6 +13,10 @@ npm run build
 
 The preview is served at http://localhost:4173. `npm run build` validates the ready-to-deploy static files in `dist/`; it does not require an installation step. Deploy the entire `dist/` directory to any static host. `.openai/hosting.json` identifies the private Sites deployment.
 
+### Vercel
+
+Import the GitHub repository with the repository root as Root Directory. The committed `vercel.json` selects the Other framework preset, runs `npm run build`, and publishes `dist/`. These settings override the corresponding dashboard defaults, so Vercel does not look for a `public/` directory. Pushes to the connected production branch trigger the next deployment.
+
 ## Files
 
 - `dist/index.html`: semantic sections, contact actions, SEO and dialog markup.
