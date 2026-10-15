@@ -25,7 +25,7 @@ The preview is served at http://localhost:4173. `npm run build` validates the re
 
 ## Content and asset provenance
 
-Project images and the about portrait were extracted from `SITE - JEREMIAS THOMAZ.pdf` supplied in the user's Downloads folder. The PDF contains rasterized website screenshots. These project previews are authentic crops, not generated client work. Their available resolution is limited by the source; replace them with original full-resolution assets when available. The hero uses the separate `Foto de perfil.png` supplied by the user on October 15, 2026, converted to `jeremias-hero.webp` at its original 896 × 896 resolution. The original file is unchanged.
+Project images were extracted from `SITE - JEREMIAS THOMAZ.pdf` supplied in the user's Downloads folder. The PDF contains rasterized website screenshots. These project previews are authentic crops, not generated client work. Their available resolution is limited by the source; replace them with original full-resolution assets when available. The hero uses the separate `Foto de perfil.png` supplied by the user on October 15, 2026, converted to `jeremias-hero.webp` at its original 896 × 896 resolution. The about section uses `Gemini_Generated_Image_vdvitivdvitivdvi.png`, also supplied by the user on October 15, 2026, converted to `jeremias-about.webp` at its original 896 × 896 resolution. Both source files are unchanged.
 
 The supplied brief provides the project label “Mês Portal”; the associated source artwork visibly refers to congresso Portal. Confirm the preferred complete title before changing it. Descriptions are limited to the service evidenced in the brief or source; no outcomes or fabricated deliverables are included.
 
